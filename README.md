@@ -14,3 +14,4 @@ The UpSave account offers the highest interest rate of 4.0%.
 Benefits include the "Standard Savings Account" plus "with Insurance".
 
 ## Class Diagram
+![image](https://github.com/sairarat/Decorator-Pattern/blob/master/Decorator%20Pattern.png)
